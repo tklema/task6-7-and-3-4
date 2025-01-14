@@ -203,7 +203,7 @@ header {
 
 .menu {
   position: absolute;
-  width: 100%;
+  width: calc(100vw - 40px);
   z-index: 1;
   visibility: hidden;
   opacity: 0;
